@@ -1,14 +1,14 @@
 [
-    {
-      "category": "Cohorting",
-      "prompt": "Count of Users by first purchase date"
-    },
-    {
-      "category": "Audience Building",
-      "prompt":"Users who have purchased more than 100 dollars worth of Calvin Klein products and have purchased in the last 30 days"
-    },
-    {
-      "category": "Period Comparison",
-      "prompt": "Total revenue by category this year compared to last year in a line chart with year pivoted"
-    }
+  {
+    "category": "計測",
+    "prompt": "初回購入日別のユーザー数"
+  },
+  {
+    "category": "オーディエンス構築",
+    "prompt":"カルバン・クライン製品を100ドル以上購入し、過去30日間に購入があったユーザー"
+  },
+  {
+    "category": "期間比較",
+    "prompt": "今年のカテゴリ別総収益を昨年と比較した折れ線グラフ（年でピボット表示）"
+  }
 ]

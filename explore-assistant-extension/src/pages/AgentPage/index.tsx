@@ -230,11 +230,11 @@ const AgentPage = () => {
         <div className="flex flex-col space-y-4 mx-auto max-w-2xl p-4">
           <h1 className="text-5xl font-bold">
             <span className="bg-clip-text text-transparent  bg-gradient-to-r from-pink-500 to-violet-500">
-              Hello.
+              こんにちは
             </span>
           </h1>
           <h1 className="text-3xl text-gray-400">
-            Getting everything ready...
+            準備中です、少々お待ちください。
           </h1>
           <div className="max-w-2xl text-blue-300">
             <LinearProgress color="inherit" />
@@ -320,11 +320,11 @@ const AgentPage = () => {
                       <div className="flex flex-col space-y-4 mx-auto max-w-2xl p-4">
                         <h1 className="text-5xl font-bold">
                           <span className="bg-clip-text text-transparent  bg-gradient-to-r from-pink-500 to-violet-500">
-                            Hello.
+                            こんにちは
                           </span>
                         </h1>
                         <h1 className="text-3xl text-gray-400">
-                          Loading the conversation and LookML Metadata...{' '}
+                          会話およびLookMLメタデータを読み込み中...{' '}
                         </h1>
                         <div className="max-w-2xl text-blue-300">
                           <LinearProgress color="inherit" />
@@ -380,11 +380,11 @@ const AgentPage = () => {
               <div className="flex flex-col space-y-4 mx-auto max-w-3xl p-4">
                 <h1 className="text-5xl font-bold">
                   <span className="bg-clip-text text-transparent  bg-gradient-to-r from-pink-500 to-violet-500">
-                    Hello.
+                    こんにちは
                   </span>
                 </h1>
                 <h1 className="text-5xl text-gray-400">
-                  How can I help you today?
+                  今日はどのような分析を行いますか？
                 </h1>
               </div>
 
